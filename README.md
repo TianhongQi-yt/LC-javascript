@@ -1,2 +1,2 @@
 # LC-javascript
-javascript solution for code interview
+javascript solutions for code interview
